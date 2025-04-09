@@ -1,6 +1,7 @@
 # garypcb-juice
 @sunni 
-its gary. ionthinkanythingworksbutthebuttonsarelikefidgittoys. i think it vibrates with a button maybe?
+its gary. ionthinkanythingworksbutthebuttonsarelikefidgittoys. i think it vibrates with a button maybe?<br>
+![plot](/3dviewer.png) ![plot](/pcb.png) ![plot](/schematic.png)
 ## BOM
 - 220 ohm resistor x1
 - mini motor disc x1
